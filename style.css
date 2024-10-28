@@ -3,12 +3,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #00ff00;
 }}
 
 header {
     background: #333;
-    color: #fff;
+    color: #32cd32;
     padding: 10px 0;
     text-align: center;
 }
@@ -24,7 +24,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #00ff00;
     text-decoration: none;
 }
 
@@ -42,5 +42,5 @@ footer {
     text-align: center;
     padding: 10px 0;
     background: #333;
-    color: #fff;
+    color: #32cd32;
 }
