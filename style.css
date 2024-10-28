@@ -1,46 +1,14 @@
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #00ff00;
+h1 {
+    font-size: 2.5rem; /* Kích thước chữ lớn hơn */
+    color: #ff6347; /* Màu đỏ cam */
 }
 
-header {
-    background: #333;
-    color: #32cd32;
-    padding: 100px 0;
-    text-align: center;
+h2 {
+    font-size: 2rem; /* Kích thước chữ lớn hơn */
+    color: #4682b4; /* Màu xanh dương */
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 150px;
-}
-
-nav ul li a {
-    color: #00ff00;
-    text-decoration: none;
-}
-
-main {
-    padding: 200px;
-}
-
-article {
-    margin-bottom: 200px;
-    padding: 100px;
-    border: 10px solid #ccc;
-}
-
-footer {
-    text-align: center;
-    padding: 100px 0;
-    background: #333;
-    color: #32cd32;
+p {
+    font-size: 1rem; /* Kích thước chữ mặc định */
+    color: #333; /* Màu xám đậm */
 }
