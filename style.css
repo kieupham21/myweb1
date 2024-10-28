@@ -9,7 +9,7 @@ body {
 header {
     background: #333;
     color: #32cd32;
-    padding: 10px 0;
+    padding: 100px 0;
     text-align: center;
 }
 
@@ -20,7 +20,7 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin: 0 15px;
+    margin: 0 150px;
 }
 
 nav ul li a {
@@ -29,18 +29,18 @@ nav ul li a {
 }
 
 main {
-    padding: 20px;
+    padding: 200px;
 }
 
 article {
-    margin-bottom: 20px;
-    padding: 10px;
-    border: 1px solid #ccc;
+    margin-bottom: 200px;
+    padding: 100px;
+    border: 10px solid #ccc;
 }
 
 footer {
     text-align: center;
-    padding: 10px 0;
+    padding: 100px 0;
     background: #333;
     color: #32cd32;
 }
